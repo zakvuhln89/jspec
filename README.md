@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add new YOLOv8 OBB model metrics (#7379)
