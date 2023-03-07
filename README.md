@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+ultralytics 8.0.229 add model.embed() method (#7098)
