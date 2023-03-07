@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
