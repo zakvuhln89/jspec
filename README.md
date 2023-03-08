@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
