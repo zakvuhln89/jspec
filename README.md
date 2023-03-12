@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Fix Multi-GPU resume bug (#7328)
