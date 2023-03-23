@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add YOLOv8 LibTorch C++ inference example (#7090)
