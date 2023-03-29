@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Explorer with LanceDB, Actions and Docs updates (#7487)
