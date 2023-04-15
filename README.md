@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add CoreML Docs Integrations Page (#8063)
