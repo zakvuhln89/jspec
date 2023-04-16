@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
