@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add simple-utilities.md Docs page (#8269)
