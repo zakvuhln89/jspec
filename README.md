@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
