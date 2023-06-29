@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix heatmaps width-height order bug (#7184)
