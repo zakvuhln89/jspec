@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Mkdocs updates (#8008)
