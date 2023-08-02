@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
