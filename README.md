@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+YOLOv8 INT8 TFLite Inference Example (#7317)
