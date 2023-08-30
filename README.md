@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Feature: Create HUB Models from CLI or Python Script (#7316)
