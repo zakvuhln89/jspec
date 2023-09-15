@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
