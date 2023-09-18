@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
