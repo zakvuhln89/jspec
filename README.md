@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Elaborate Train and Predict mode docs arguments (#8137)
