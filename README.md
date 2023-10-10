@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
