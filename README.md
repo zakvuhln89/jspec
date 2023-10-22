@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Update neural-magic.md (#7347)
