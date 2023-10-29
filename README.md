@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
