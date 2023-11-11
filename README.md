@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+YOLOv8 INT8 TFLite Inference Example (#7317)
