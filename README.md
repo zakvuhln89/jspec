@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+docs: update view-results-in-terminal.md (#66)
