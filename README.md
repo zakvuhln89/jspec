@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Update Roboflow segmentation Docs pages (#8094)
