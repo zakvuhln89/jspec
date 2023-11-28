@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
