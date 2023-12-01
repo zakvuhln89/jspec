@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update H1 in Explorer API docs (#7813)
