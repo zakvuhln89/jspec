@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
