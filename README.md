@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add https://youtu.be/uDrn9QZJ2lk and object_counting.py, ai_gym.py updates (#9265)
