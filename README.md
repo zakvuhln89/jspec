@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
