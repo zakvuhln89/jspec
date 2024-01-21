@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Fix TypeError in check_cfg() (#9245)
