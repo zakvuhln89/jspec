@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+docs: update view-results-in-terminal.md (#66)
