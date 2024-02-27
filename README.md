@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Fix ONNX GPU inference bug (#6840)
