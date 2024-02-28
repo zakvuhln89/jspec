@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
