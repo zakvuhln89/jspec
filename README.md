@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Update format.yml to pull_request_target (#7460)
