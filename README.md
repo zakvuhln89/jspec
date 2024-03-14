@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+* fix for KeyError: 'epoch'
