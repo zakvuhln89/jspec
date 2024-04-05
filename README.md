@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update TFLite Docs images (#8605)
