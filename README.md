@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add dota8.yaml and O tests (#7394)
