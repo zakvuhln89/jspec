@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
