@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Auto-format by https://ultralytics.com/actions
