@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
