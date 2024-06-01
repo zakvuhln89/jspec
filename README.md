@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Batch inference fixes (#8854)
