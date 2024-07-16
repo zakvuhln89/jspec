@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+docs: update view-results-in-terminal.md (#66)
