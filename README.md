@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
