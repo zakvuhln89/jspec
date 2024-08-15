@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Docs partial mdformat improvements (#7378)
