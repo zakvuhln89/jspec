@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+YOLOv8 INT8 TFLite Inference Example (#7317)
