@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Improve Coral Edge TPU guide (#8160)
