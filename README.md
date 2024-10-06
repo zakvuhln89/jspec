@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
